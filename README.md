@@ -13,8 +13,8 @@ How to run this project ?
 3) copy all file in virtual envirnment
 4) Create folder (uploads ) 
 5) open cmd and type command streamlit run main.py 
-
-#Packages to install
+ 
+# Packages to install
 
 
 Tenserflow,Resnet50
