@@ -1,4 +1,4 @@
-# fashion-recommerndation-system
+# fashion-recommendation-system
 Dataset Link
 kaggle datasets download -d paramaggarwal/fashion-product-images-small
 
