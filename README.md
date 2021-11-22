@@ -1,4 +1,4 @@
-# fashon-recommerndation-system
+# fashion-recommerndation-system
 Dataset Link
 kaggle datasets download -d paramaggarwal/fashion-product-images-small
 
